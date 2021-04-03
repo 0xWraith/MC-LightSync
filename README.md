@@ -1,9 +1,9 @@
 # MC-LightSync
 
 ____
-##Description
+## Description
 ____
-##How to use
+## How to use
 ____
-##How to run
+## How to run
 ____
